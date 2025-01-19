@@ -11,7 +11,6 @@
 ## ✨ Experience:
 
 - 🏎️ State Estimation Lead at Formula Trinity
-- 🔡 Coding Tutor at Olus Education
 - 🔬 Undergraduate Demonstrator for Computer Engineering
 
 ## 🚀 Projects:
