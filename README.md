@@ -10,6 +10,7 @@
 
 ## ✨ Experience:
 
+- 📦 Software Developer Engineer Intern at Amazon
 - 🖥️ Software Engineer Intern at Microsoft
 - 🏎️ State Estimation Lead at Formula Trinity
 - 🔬 Undergraduate Demonstrator for Computer Engineering
