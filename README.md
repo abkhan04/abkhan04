@@ -21,7 +21,8 @@
 - 🕹️ [Reversi with AI Minimax Algorithm](https://github.com/abkhan04/reversi-minimax-algorithm): Play Reversi with an AI running a minimax algorithm with alpha-beta pruning
 - 🌐 [F1 Telemetry API](https://github.com/abkhan04/f1-24-telemetry-api): A REST API that displays car telemetry data for the F1 24 game
 - 🚩 [A* Pathfinder Visualiser](https://github.com/abkhan04/pathfinder-visualiser): Visualise and discover how A* search finds the shortest path in custom scenarios
-- ↔️ [Web Proxy Server](https://github.com/abkhan04/Web-Proxy-Server): A proxy server that can handle HTTP/HTTPS requests, cache HTTP responses, and dynamically add and block URLs.
+- ↔️ [Web Proxy Server](https://github.com/abkhan04/Web-Proxy-Server): A proxy server that can handle HTTP/HTTPS requests, cache HTTP responses, and dynamically add and block URLs
+- 🔐 [Cloud Encryption System](https://github.com/abkhan04/Cloud-Encryption-System): A secure file sharing web app that uses hybrid cryptography to encrypt and safely share files with selected groups via Dropbox.
 
 ## 👨🏻‍💻 Languages and Tools: <br />
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
