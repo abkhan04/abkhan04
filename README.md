@@ -1,7 +1,7 @@
 # Hello👋, I'm Abdullah Khan
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abkhan04&label=Profile%20views&color=0e75b6&style=flat" alt="abkhan04" /> </p>
 
-- 🔭 I’m currently a 4th Year Computer Science student at Trinity College Dublin
+- 🔭 I’m currently a 5th Year Computer Science student at Trinity College Dublin
 - 🌱 I’m currently learning about Simultaneous Localization and Mapping (SLAM) and ROS2
 
 ## 📫 How to reach me: 
